@@ -1,6 +1,6 @@
 # immichTests
 
-Проект по тестированию immich - self-hosted решение для управления фото- и видеоматериалами
+Проект по тестированию immich - self-hosted решения для управления фото- и видеоматериалами
 https://immich.app
 
 ## Environment
